@@ -1,0 +1,12 @@
+id,name,description
+requirement_id,old_requirement,new_requirement,change_date
+R1,User can register using Email,User can register using Email and Mobile Number,2025-01-10
+R2,User can login using Email and Password,User can login using Google OAuth,2025-01-15
+R3,User can reset password using OTP,User can reset password using Email Link,2025-02-05
+R4,User can update profile information,User can update profile picture and information,2025-02-20
+R5,User can search products by name or category,User can search products using voice search,2025-03-10
+R6,User can add products to the shopping cart,User can save products for later purchase,2025-03-25
+R7,User can place an order using Credit Card,User can place an order using Credit Card and UPI,2025-04-12
+R8,User can generate an invoice after successful payment,User can download invoice as PDF,2025-04-30
+R9,Admin can add update and delete products,Admin can manage product categories also,2025-05-10
+R10,Dashboard should display sales reports,Dashboard should display sales analytics and charts,2025-05-25

@@ -1,0 +1,35 @@
+SOFTWARE REQUIREMENT SPECIFICATION
+
+Project Name: Online Shopping Management System
+
+R1 User can register using Email.
+
+R2 User can login using Email and Password.
+
+R3 User can reset password using OTP.
+
+R4 User can update profile information.
+
+R5 User can search products by name or category.
+
+R6 User can add products to the shopping cart.
+
+R7 User can place an order using Credit Card.
+
+R8 User can generate an invoice after successful payment.
+
+R9 Admin can add, update, and delete products.
+
+R10 Admin can manage registered users.
+
+R11 Dashboard should display sales reports.
+
+R12 Users should receive email notifications after order confirmation.
+
+R13 The system should support secure logout.
+
+R14 Users can view order history.
+
+R15 The application should support Google OAuth login.
+
+End of Software Requirement Specification.

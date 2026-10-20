@@ -1,0 +1,7 @@
+id,name,description
+requirement_id,new_requirement
+R2,User can login using Google OAuth
+R4,User can upload profile picture
+R5,Search products using AI recommendations
+R7,Support UPI and Wallet payment
+R10,Dashboard should include AI analytics
